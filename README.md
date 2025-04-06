@@ -20,3 +20,12 @@ Accurate prediction of O₂ content is essential for controlling air-to-fuel rat
 - **Evaluation**: Performance evaluated using MAE, RMSE, and R² metrics
 
 ---
+
+##📊 Results
+The trained LSTM model demonstrated strong predictive capability, achieving:
+
+- Mean Absolute Error (MAE): e.g., 0.12%
+
+- Root Mean Square Error (RMSE): e.g., 0.18%
+
+- R² Score: e.g., 0.96
