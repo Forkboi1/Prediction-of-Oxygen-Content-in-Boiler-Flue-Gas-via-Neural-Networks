@@ -21,7 +21,7 @@ Accurate prediction of O₂ content is essential for controlling air-to-fuel rat
 
 ---
 
-##📊 Results
+## 📊 Results
 The trained LSTM model demonstrated strong predictive capability, achieving:
 
 - Mean Absolute Error (MAE): e.g., 0.12%
